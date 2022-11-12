@@ -10,6 +10,8 @@ Java :-  java is used for handle the backend part.
 XML :- XML is used for design a ui of an application.
 SOME ENCRYPTION AND DECRYPTION ALGORITHMS : AES , DES , MD5, RSA.
 
+Please try in your smartphone if you face any issues or you want to contribute on it please come.
+
 that is all about  it. 
 
 Download now for experience the app :-  [![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://drive.google.com/file/d/12EdA6CFf2jIOrjOC8yOIeEFMicOO1A2E/view?usp=sharing)
